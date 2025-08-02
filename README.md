@@ -30,3 +30,12 @@ This assignment was carried out to showcase my understanding/skills, projects an
   - Open the file in any modern browser
   - Edit content to reflect your own profile
   - Optionally, split the CSS into an external file for scalability
+
+## Browser Support
+The portfolio is tested and it works on:
+  - Chrome (latest)
+  - Edge (latest)
+  - Firefox (latest)
+
+## License
+This project is open and available for anyone to use. Attribution is appreciated but not required.
