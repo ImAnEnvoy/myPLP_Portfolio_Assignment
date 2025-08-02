@@ -5,14 +5,21 @@
 This assignment was carried out to showcase my understanding/skills, projects and contact information in a clean, organized manner, and a visually appealing layout by building a simple, responsive, accessible, and SEO-friendly portfolio webpage using only raw HTML5 and CSS. 
 
 ## Features
-  - Semantic HTML5 structure for accessibility
+  - **Semantic HTML**: Properly structured with meaningful elements
+  - **No Dependencies**: Pure HTML/CSS 
+  - **Fully Responsive**: Works on all device sizes from mobile to desktop
   - Clean and beginner-friendly CSS
-  - Fully responsive design
   - Organized code with comments and best practices
   - No external libraries or frameworks used #File Structure
-📁 project-root
-├── index.html      # Main HTML & CSS file
-└── README.md       # Project documentation 
+    
+## File Structure
+portfolio/
+
+├── index.html # Main HTML file
+
+├── styles.css # Main CSS file
+
+└── README.md # Documentation
 
 ### Sections Included
   - Header – Developer name and brief title
