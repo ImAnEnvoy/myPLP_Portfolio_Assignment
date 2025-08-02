@@ -1,10 +1,10 @@
 # myPLP_Portfolio_Assignment
 
 
-##📗Project Overview
+## Overview
 This assignment was carried out to showcase my understanding/skills, projects and contact information in a clean, organized manner, and a visually appealing layout by building a simple, responsive, accessible, and SEO-friendly portfolio webpage using only raw HTML5 and CSS. 
 
-🪶 ##Features
+## Features
   - Semantic HTML5 structure for accessibility
   - Clean and beginner-friendly CSS
   - Fully responsive design
@@ -14,18 +14,18 @@ This assignment was carried out to showcase my understanding/skills, projects an
 ├── index.html      # Main HTML & CSS file
 └── README.md       # Project documentation 
 
-💎 ##Sections Included
+### Sections Included
   - Header – Developer name and brief title
   - Navigation – Links to page sections (About, Projects, Skills, Contact)
   
-  ###Main Content:
+  ### Main Content:
   - About – Personal introduction paragraph
   - Projects – highlighted work done
   - Skills – Key technical abilities
   - Contact – GitHub account
   - Footer – Copyright information
 
-🔹 ##How to Use
+## How to Use
   - Clone or download the HTML file
   - Open the file in any modern browser
   - Edit content to reflect your own profile
